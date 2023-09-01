@@ -1,4 +1,4 @@
-package Aula01;
+
 // Tipos de variáveis em Java
 /* 
     * String   ->Armazena texto
@@ -20,27 +20,17 @@ public class Exemplo01 {
 
         String nome = "Pedro Vaz";
         int idade = 13;
-        boolean chuva = true;           // Em variáveis booleanas eu uso true or false
-        char letra = 'P';               // Toda char DEVE estar simples ''
+        boolean chuva = true; // Em variáveis booleanas eu uso true or false
+        char letra = 'P'; // Toda char DEVE estar simples ''
         double salario = 26245.34;
-        float altura = (float) 1.78;    //  Estou convertendo um double para float
+        float altura = (float) 1.78; // Estou convertendo um double para float
 
-        System.out.println("Meu nome é:"               + nome);
-        System.out.println("minha idade é : "          + idade);
-        System.out.println("Está chovendo? "           + chuva);
+        System.out.println("Meu nome é:" + nome);
+        System.out.println("minha idade é : " + idade);
+        System.out.println("Está chovendo? " + chuva);
         System.out.println("A inicial do meu nome é: " + letra);
-        System.out.println("Meu salário é: "           + salario); 
-        System.out.println("Minha altura é: "          + altura + " metros");
-
-        
-
-
-
-
-
-
-
-
+        System.out.println("Meu salário é: " + salario);
+        System.out.println("Minha altura é: " + altura + " metros");
 
     }
 }

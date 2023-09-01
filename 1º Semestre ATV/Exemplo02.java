@@ -1,4 +1,4 @@
-package Aula01;
+
 /*
  * Constante -> Variável em Java em que não posso alterar o valor usamos a palavra chave FINAL
 */
@@ -13,11 +13,10 @@ public class Exemplo02 {
     // progama.
     // final -> Não posso alterar o valor.
 
-         public static void main(String[] args) {
+    public static void main(String[] args) {
 
-        System.out.println("A taxa da loja é de: " +TAXA+"%");
-        System.out.println("Pi vale: "             + PI);
-
+        System.out.println("A taxa da loja é de: " + TAXA + "%");
+        System.out.println("Pi vale: " + PI);
 
     }
 }
