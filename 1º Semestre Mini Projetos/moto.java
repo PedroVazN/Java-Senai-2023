@@ -6,6 +6,7 @@ public class moto {
     double velocidadeMaxima;
     int cilindrada;
     double combustivel;
+    public int velocidadeMáxima;
 
     // Declaração dos métodos
     void ligar() {

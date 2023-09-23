@@ -1,4 +1,3 @@
-
 // Cálculo da área do Trcngulo 
 
 public class Exemplo03 {
