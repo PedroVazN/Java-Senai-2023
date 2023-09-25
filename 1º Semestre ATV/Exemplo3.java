@@ -1,6 +1,6 @@
 // Cálculo da área do Trcngulo 
 
-public class Exemplo03 {
+public class Exemplo3 {
 
     public static final double BASE = 5.5;
 

@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class TesteMoto {
+public class TesteMoto1 {
 
     public static void main(String[] args) {
 
-        moto XJ6;
-        XJ6 = new moto();
+        moto1 XJ6;
+        XJ6 = new moto1();
 
         XJ6.ligar();
         XJ6.desligar();
@@ -15,7 +15,7 @@ public class TesteMoto {
         XJ6.cilindrada = 600;
         XJ6.combustivel = 55.5;
 
-        moto S1000 = new moto();
+        moto1 S1000 = new moto1();
 
         S1000.velocidadeMaxima = 300;
         S1000.cilindrada = 999;

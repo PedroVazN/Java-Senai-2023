@@ -1,8 +1,8 @@
 public class moto {
     // criação dos atributos
-
+    String nome;
     int cilidrandas = 0;
-    String combustivel;
+    int combustivel;
     boolean ligada;
     double velocidadeMáxima = 30;
     double velocidadeAtual;
@@ -10,14 +10,23 @@ public class moto {
 
     // criação dos métodos (açoes)
 
+    // Metodo construtor pique Gustavo Molina Apelao
+    public moto(String nome) {
+        this.nome = nome;
+    }
+
+    String pegarnome() {
+        return nome;
+    }
+
     void ligar() {
         ligada = true;
-        System.out.println(" O veiculo está ligado papae");
+        System.out.println(" O veiculo escolhido ligou");
     }
 
     void desligar() {
         ligada = false;
-        System.out.println(" A Moto DILIGOU");
+        System.out.println("O veiculo escolhido diligou");
     }
 
     void buzinar() {
@@ -28,7 +37,8 @@ public class moto {
         velocidadeAtualizada = velocidadeAtual + quantidade;
         velocidadeAtual = velocidadeAtualizada;
         if (velocidadeAtual > velocidadeMáxima) {
-            System.out.println("A velocida esta ultrapasada, a moto parou de funcionar ");
+            System.out.println("Voce acabou batendo a moto, veiculando parando...");
+            System.exit(0);
             return -1;
         } else {
             System.out.println("A velocidade tá normal cachorro");

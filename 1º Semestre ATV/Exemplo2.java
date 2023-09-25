@@ -2,7 +2,7 @@
  * Constante -> Variável em Java em que não posso alterar o valor usamos a palavra chave FINAL
 */
 
-public class Exemplo02 {
+public class Exemplo2 {
 
     public static final int TAXA = 10;
     public static final double PI = 3.14;

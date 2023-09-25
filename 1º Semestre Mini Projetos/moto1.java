@@ -1,5 +1,5 @@
 
-public class moto {
+public class moto1 {
 
     boolean ligado;
     double velocidadeAtual;
