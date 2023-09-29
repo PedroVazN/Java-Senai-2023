@@ -1,3 +1,4 @@
+package produto;
 public class produto {
     private String nome;
     private double preco;

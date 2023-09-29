@@ -1,3 +1,4 @@
+package moto;
 import java.util.Scanner;
 
 public class TestaMoto {

@@ -1,3 +1,4 @@
+package banco;
 public class banco {
 
     private double saldo; // O saldo não pode ser alterado em qualquer lugar de progama

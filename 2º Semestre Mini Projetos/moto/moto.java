@@ -1,3 +1,4 @@
+package moto;
 public class moto {
     // criação dos atributos
     String nome;
