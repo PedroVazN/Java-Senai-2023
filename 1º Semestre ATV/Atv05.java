@@ -8,8 +8,6 @@ public class Atv05 {
 
         String nome, endereco, telefone;
         double valorH, quantidadeT;
-        float idade;
-
         System.out.println("Digite Seu Nome: ");
         nome = sc.nextLine();
         System.out.println("Digite seu endereco: ");
@@ -17,7 +15,7 @@ public class Atv05 {
         System.out.println("Digite seu telefone");
         telefone = sc.nextLine();
         System.out.println("Digite Sua Idade: ");
-        idade = sc.nextFloat();
+        sc.nextFloat();
         System.out.println("Digite as Horas que voce trabalhou: ");
         valorH = sc.nextDouble();
         System.out.println("Digite o valor por hora");

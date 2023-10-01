@@ -80,7 +80,6 @@ public class banco1{
 
     public void menu(){
         
-        banco1 SenaiBank = new banco1(0, null);
         System.out.println("Bem vindo ao Banco Senai");
 
         System.out.println("Digite seu nome");

@@ -9,12 +9,11 @@ public class TestaGerenciadorDeTarefas {
         Scanner sc = new Scanner(System.in);
 
         Tarefas newTarefa1 = new Tarefas("Jogar", "Jogar Valorant e Subir uns Capas");
-        Tarefas newTarefa2 = new Tarefas("Chamar o GusGus",
-                "Chamar o gusGus para jogar um free firezinho dos cria né papai");
+        Tarefas newTarefa2 = new Tarefas("Chamar o GusGus","Chamar o gusGus para jogar um free firezinho dos cria né papai");
         Tarefas newTarefa3 = new Tarefas("Ir No Banheiro", "Epa a maçaneta quebrou kkkk");
-        Tarefas t1 = new Tarefas(null, null);
-        Tarefas t2 = new Tarefas(null, null);
-        Tarefas t3 = new Tarefas(null, null);
+        Tarefas slot1 = new Tarefas(null, null);
+        Tarefas slot2 = new Tarefas(null, null);
+        Tarefas slot3 = new Tarefas(null, null);
 
         System.out.println("Bem Vindo ao Gerenciador de Tarefas");
 
@@ -53,9 +52,9 @@ public class TestaGerenciadorDeTarefas {
                         
                     } else if (escolhaTarefa == 4) {
                         System.out.println("\n=====  EXIBINDO TAREFA ADICIONADAS  ====");
-                        t1.exibirTarefas();
-                        t2.exibirTarefas();
-                        t3.exibirTarefas();
+                        slot1.exibirTarefas();
+                        slot2.exibirTarefas();
+                        slot3.exibirTarefas();
                          System.out.println("");
                        
 
@@ -75,13 +74,13 @@ public class TestaGerenciadorDeTarefas {
 
                     switch (slot) {
                         case 1:
-                            tarefaSelecionada = t1;
+                            tarefaSelecionada = slot1;
                             break;
                         case 2:
-                            tarefaSelecionada = t2;
+                            tarefaSelecionada = slot2;
                             break;
                         case 3:
-                            tarefaSelecionada = t3;
+                            tarefaSelecionada = slot3;
                             break;
                         default:
                             System.out.println("Slot inválido");
@@ -141,13 +140,13 @@ public class TestaGerenciadorDeTarefas {
                             tarefaGerenciada = newTarefa3;
                             break;
                         case 4:
-                            tarefaGerenciada = t1;
+                            tarefaGerenciada = slot1;
                             break;
                         case 5:
-                            tarefaGerenciada = t2;
+                            tarefaGerenciada = slot2;
                             break;
                         case 6:
-                            tarefaGerenciada = t3;
+                            tarefaGerenciada = slot3;
                             break;
                         default:
                             System.out.println("Opção Inválida");
@@ -176,3 +175,4 @@ public class TestaGerenciadorDeTarefas {
         }
     }
 }
+
