@@ -18,11 +18,14 @@ public class TestaGerenciadorDeTarefas {
         System.out.println("Bem Vindo ao Gerenciador de Tarefas");
 
         while (true) {
+            System.out.println("");
+            System.out.println("");
+            
             System.out.println("=====  MENU  ====");
             System.out.println("1- Ver Tarefas");
             System.out.println("2- Adicionar Uma Nova Tarefa?");
-            System.out.println("4- Gerenciar Tarefas");
-            System.out.println("3- Sair");
+            System.out.println("3- Gerenciar Tarefas");
+            System.out.println("4- Sair");
             int escolha = sc.nextInt();
             System.out.println("");
 
@@ -109,13 +112,13 @@ public class TestaGerenciadorDeTarefas {
                     }
                     break;
 
-                case 3:
+                case 4:
                     System.out.println("Saindo...");
                     sc.close();
                     System.exit(0);
                     break;
 
-                case 4:
+                case 3:
                     System.out.println("=====  GERENCIAR TAREFAS  ====");
                     System.out.println("Qual tarefa deseja alterar o status?");
                     System.out.println("1 - Tarefa 1");
