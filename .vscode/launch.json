@@ -1,0 +1,434 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Atv05",
+            "request": "launch",
+            "mainClass": "Atv05",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Compra",
+            "request": "launch",
+            "mainClass": "Compra",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Compra2",
+            "request": "launch",
+            "mainClass": "Compra2",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Escola",
+            "request": "launch",
+            "mainClass": "Escola",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "EstruturasCondicionais",
+            "request": "launch",
+            "mainClass": "EstruturasCondicionais",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "EstruturasCondicionais2",
+            "request": "launch",
+            "mainClass": "EstruturasCondicionais2",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo01",
+            "request": "launch",
+            "mainClass": "Exemplo01",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo02",
+            "request": "launch",
+            "mainClass": "Exemplo02",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo03",
+            "request": "launch",
+            "mainClass": "Exemplo03",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo1",
+            "request": "launch",
+            "mainClass": "Exemplo1",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo2",
+            "request": "launch",
+            "mainClass": "Exemplo2",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo3",
+            "request": "launch",
+            "mainClass": "Exemplo3",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreak",
+            "request": "launch",
+            "mainClass": "ExemploBreak",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "IfAninhado",
+            "request": "launch",
+            "mainClass": "IfAninhado",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestHero",
+            "request": "launch",
+            "mainClass": "Interface.Flash.TestHero",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaHeranca",
+            "request": "launch",
+            "mainClass": "Interface.Flash.flashHeranca.TestaHeranca",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Pocoes",
+            "request": "launch",
+            "mainClass": "Interface.HP.Pocoes",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Laço",
+            "request": "launch",
+            "mainClass": "Laço",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Laço2",
+            "request": "launch",
+            "mainClass": "Laço2",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Laço3",
+            "request": "launch",
+            "mainClass": "Laço3",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Laço4",
+            "request": "launch",
+            "mainClass": "Laço4",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Media",
+            "request": "launch",
+            "mainClass": "Media",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "Menu",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "PareseImpares",
+            "request": "launch",
+            "mainClass": "PareseImpares",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Precedencia",
+            "request": "launch",
+            "mainClass": "Precedencia",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaCarro",
+            "request": "launch",
+            "mainClass": "TestaCarro",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaHeroi",
+            "request": "launch",
+            "mainClass": "TestaHeroi",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaLivro",
+            "request": "launch",
+            "mainClass": "TestaLivro",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaPessoa",
+            "request": "launch",
+            "mainClass": "TestaPessoa",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TesteCachorro",
+            "request": "launch",
+            "mainClass": "TesteCachorro",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TesteMoto1",
+            "request": "launch",
+            "mainClass": "TesteMoto1",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "VerificaNumero",
+            "request": "launch",
+            "mainClass": "VerificaNumero",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "VerificaNumero2",
+            "request": "launch",
+            "mainClass": "VerificaNumero2",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "VerificaParImpar",
+            "request": "launch",
+            "mainClass": "VerificaParImpar",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaAluno",
+            "request": "launch",
+            "mainClass": "aluno.TestaAluno",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "atv03",
+            "request": "launch",
+            "mainClass": "atv03",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "atv04",
+            "request": "launch",
+            "mainClass": "atv04",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaBanco",
+            "request": "launch",
+            "mainClass": "banco.TestaBanco",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaBanco1",
+            "request": "launch",
+            "mainClass": "banco.TestaBanco1",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TesteCachorro(1)",
+            "request": "launch",
+            "mainClass": "cachorro.TesteCachorro",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaPersonagens",
+            "request": "launch",
+            "mainClass": "desenhos.TestaPersonagens",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Reestruturacao",
+            "request": "launch",
+            "mainClass": "empregado.Reestruturacao",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaMoto",
+            "request": "launch",
+            "mainClass": "moto.TestaMoto",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "palidromo",
+            "request": "launch",
+            "mainClass": "palidromo",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaFigura",
+            "request": "launch",
+            "mainClass": "polimorfismo.figura.main.TestaFigura",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaRanger",
+            "request": "launch",
+            "mainClass": "powerRanger.TestaRanger",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "primo",
+            "request": "launch",
+            "mainClass": "primo",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaProduto",
+            "request": "launch",
+            "mainClass": "produto.TestaProduto",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaBanco2",
+            "request": "launch",
+            "mainClass": "projetoFinal.TestaBanco2",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "SimulacaoAula",
+            "request": "launch",
+            "mainClass": "simulacao.SimulacaoAula",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaWars",
+            "request": "launch",
+            "mainClass": "starwars.TestaWars",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "ifaninhado",
+            "request": "launch",
+            "mainClass": "tarefas.ExemplosUsados.ifaninhado",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaGerenciadorDeTarefas",
+            "request": "launch",
+            "mainClass": "tarefas.TestaGerenciadorDeTarefas",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TarefasArrow",
+            "request": "launch",
+            "mainClass": "tarefas2.TarefasArrow",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaFuncionario",
+            "request": "launch",
+            "mainClass": "trabalho.TestaFuncionario",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "TestaVeiculos",
+            "request": "launch",
+            "mainClass": "veiculo.TestaVeiculos",
+            "projectName": "Java-Senai-2023_4637863"
+        },
+        {
+            "type": "java",
+            "name": "Batalha",
+            "request": "launch",
+            "mainClass": "vingadores.Batalha",
+            "projectName": "Java-Senai-2023_4637863"
+        }
+    ]
+}
